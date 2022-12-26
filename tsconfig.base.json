@@ -14,7 +14,14 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-integrated-monorepo/my-new-application": [
+        "packages/my-new-application/src/index.ts"
+      ],
+      "@nx-integrated-monorepo/my-new-next-app": [
+        "packages/my-new-next-app/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

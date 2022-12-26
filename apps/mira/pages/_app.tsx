@@ -6,7 +6,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Welcome to search!</title>
+        <title>Welcome to mira!</title>
       </Head>
       <main className="app">
         <Component {...pageProps} />
