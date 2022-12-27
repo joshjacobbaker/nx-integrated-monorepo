@@ -10,7 +10,8 @@
       "defaultConfiguration": "production",
       "options": {
         "root": "apps/mira",
-        "outputPath": "dist/apps/mira"
+        "outputPath": "dist/apps/mira",
+        "postcssConfig": "apps/mira/postcss.config.js"
       },
       "configurations": {
         "development": {
