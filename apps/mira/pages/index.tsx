@@ -1,12 +1,30 @@
+import type { NextPage } from 'next';
+import Head from 'next/head';
+import Header from '../components/Header';
+
 export function Index() {
-  /*
-   * Replace the elements below with your own.
-   *
-   * Note: The corresponding styles are in the ./index.css file.
-   */
   return (
     <div>
-      <h1 className="text-lg text-red-400">Hi, Miranda!!! :)</h1>
+      <Head>
+        <title>Jewelery by Miranda</title>
+      </Head>
+      {/* header */}
+      <Header />
+      <main>
+        {/* banner */}
+        <section></section>
+        {/* Another Section Here */}
+        <section></section>
+        {/* Another Section Here */}
+        <section></section>
+        {/* Another Section Here */}
+        <section></section>
+        {/* Another Section Here */}
+        <section></section>
+        {/* Another Section Here */}
+        <section></section>
+      </main>
+      <footer></footer>
     </div>
   );
 }
