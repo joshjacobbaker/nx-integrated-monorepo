@@ -27,7 +27,7 @@ function Header({}: Props) {
         <SocialIcon
           fgColor="gray"
           bgColor="transparent"
-          url="https://etsy.com"
+          url="https://www.etsy.com/shop/JewelryDesignsbyMira"
         />
         <SocialIcon
           fgColor="gray"
