@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 import Image from 'next/image';
 import { Cursor, useTypewriter } from 'react-simple-typewriter';
 import BackgroundCircles from './BackgroundCircles';
@@ -19,15 +20,35 @@ function Hero({}: Props) {
     <div className="h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden">
       <BackgroundCircles />
       <Image
-        src="https://i.etsystatic.com/23690820/r/il/f0450d/4470714247/il_340x270.4470714247_760y.jpg"
+        src="https://i.etsystatic.com/iusa/f24517/84099923/iusa_75x75.84099923_34mh.jpg?version=0"
+        alt=""
         width="300"
         height="300"
         className="relative rounded-full h-32 w-32 mx-auto object-cover"
       ></Image>
-      <h1 className="flex flex-row items-center">
-        <span>{text}</span>
-        <Cursor cursorColor="gray"></Cursor>
-      </h1>
+      <div className="z-20">
+        <p className="text-sm uppercase text-gray-500 pb-2 tracking-[15px]">
+          Jewelry by Mira
+        </p>
+        <div className="text-5xl lg:text-6xl font-semibold px-10">
+          <span>{text}</span>
+          <Cursor cursorColor="gray"></Cursor>
+        </div>
+        <div>
+          <Link href="#hero">
+            <button className="heroButton">Reviews</button>
+          </Link>
+          <Link href="#">
+            <button className="heroButton">Dimensions</button>
+          </Link>
+          <Link href="#">
+            <button className="heroButton">Price</button>
+          </Link>
+          <Link href="#">
+            <button className="heroButton">Materials</button>
+          </Link>
+        </div>
+      </div>
     </div>
   );
 }
