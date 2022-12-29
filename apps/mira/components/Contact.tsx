@@ -69,9 +69,6 @@ function ContactMe({}: Props) {
             {...register('message')}
             placeholder="Message"
             className="contactInput"
-            id=""
-            cols="30"
-            rows="10"
           />
           <button
             type="submit"

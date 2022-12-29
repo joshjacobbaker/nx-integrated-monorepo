@@ -1,10 +1,10 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 type Props = {
-  directionLeft: boolean;
+  directionLeft?: boolean;
 };
 
-function Skill({ directionLeft }: Props) {
+function Skill({ directionLeft = false }: Props) {
   return (
     <div className="group relative flex cursor-pointer">
       <motion.img
