@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 import { SocialIcon } from 'react-social-icons';
 import { motion } from 'framer-motion';
 type Props = {};
@@ -22,8 +23,6 @@ function Header({}: Props) {
         }}
         className="flex flex-row items-center"
       >
-        {/* Social Icons */}
-
         <SocialIcon
           fgColor="gray"
           bgColor="transparent"
@@ -66,6 +65,8 @@ function Header({}: Props) {
         }}
         className="flex flex-row items-center text-gray-300 cursor-pointer"
       >
+        {/* // Todo: Resolve UI Render Does Not Match */}
+        {/* <Link href="#contact"> */}
         <SocialIcon
           className="cursor-pointer"
           network="email"
@@ -75,6 +76,7 @@ function Header({}: Props) {
         <p className="uppercase hidden md:inline-flex text-sm text-gray-400">
           Get In Touch
         </p>
+        {/* </Link> */}
       </motion.div>
     </header>
   );
