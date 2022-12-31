@@ -1,0 +1,51 @@
+{
+  "name": "sanity",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/sanity",
+  "projectType": "application",
+  "targets": {
+    "dev": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": ["sanity dev"],
+        "cwd": "apps/sanity"
+      }
+    },
+    "start": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": ["sanity start"],
+        "cwd": "apps/sanity"
+      }
+    },
+    "build": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": ["sanity build"],
+        "cwd": "apps/sanity"
+      }
+    },
+    "deploy": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": ["sanity deploy"],
+        "cwd": "apps/sanity"
+      }
+    },
+    "deploy-graphql": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": ["sanity graphql deploy"],
+        "cwd": "apps/sanity"
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/sanity/**/*.{ts,tsx,js,jsx}"]
+      }
+    }
+  },
+  "tags": []
+}
