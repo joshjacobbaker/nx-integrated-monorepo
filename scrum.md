@@ -1,5 +1,26 @@
 # resource
 
+[tailwindcss library?]("headlessui.dev")
+
+### Shopify
+
+[Next.js + Shopify Storefront API (GraphQL) + Tailwind CSS Headless Store - Course Preview]("https://www.youtube.com/watch?v=RgGItagzlGo")
+[pt.2]("https://www.youtube.com/watch?v=sFYEpseLriU")
+[GraphQL]("https://www.youtube.com/watch?v=ARgQ4oK0Mz8")
+[GraphQL]("https://www.youtube.com/watch?v=S4hTq_3yQrk")
+[ShopifyDevTutorials]("https://www.youtube.com/watch?v=SrtOXwjXJ1w&list=PLvQF73bM4-5XkNPtyJoyktou_KMQhitph")
+[]("https://www.youtube.com/watch?v=bbd8zLhtONA&list=PLvQF73bM4-5VWJtf8868nP9aGwGY7UjL3")
+[]("https://www.youtube.com/watch?v=PIXN032XJJ8")
+[]("https://www.youtube.com/watch?v=9THOf6DVoag")
+[]("https://www.youtube.com/watch?v=U2nIleAHQXE")
+[]("https://www.youtube.com/watch?v=sFYEpseLriU")
+[]("https://www.youtube.com/watch?v=a8V_vAvTv0o")
+[]("https://www.youtube.com/watch?v=Yn9kAx2h-8w")
+[]("https://www.youtube.com/watch?v=cwJa24UK-Cw")
+
+####
+
+[Headles Ecommerce TailwindCSS Shopify Nextjs]("https://www.youtube.com/watch?v=xNMYz74zNHM")
 [Udemy NextJS & Shopify Integration]("https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/learn/lecture/27422200#overview")
 [Shopify Practice]("https://jewelrybymira.myshopify.com/admin")
 [behance and drupal web design]("")
