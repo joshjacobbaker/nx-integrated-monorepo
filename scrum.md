@@ -5,7 +5,7 @@
 ### Shopify
 
 [Next.js + Shopify Storefront API (GraphQL) + Tailwind CSS Headless Store - Course Preview]("https://www.youtube.com/watch?v=RgGItagzlGo")
-[pt.2]("https://www.youtube.com/watch?v=sFYEpseLriU")
+[pt.2 Dynamic Data Fetching with Next.js Static Pages (SWR for Shopify Headless)]("https://www.youtube.com/watch?v=sFYEpseLriU")
 [GraphQL]("https://www.youtube.com/watch?v=ARgQ4oK0Mz8")
 [GraphQL]("https://www.youtube.com/watch?v=S4hTq_3yQrk")
 [ShopifyDevTutorials]("https://www.youtube.com/watch?v=SrtOXwjXJ1w&list=PLvQF73bM4-5XkNPtyJoyktou_KMQhitph")
@@ -13,10 +13,13 @@
 []("https://www.youtube.com/watch?v=PIXN032XJJ8")
 []("https://www.youtube.com/watch?v=9THOf6DVoag")
 []("https://www.youtube.com/watch?v=U2nIleAHQXE")
-[]("https://www.youtube.com/watch?v=sFYEpseLriU")
 []("https://www.youtube.com/watch?v=a8V_vAvTv0o")
 []("https://www.youtube.com/watch?v=Yn9kAx2h-8w")
 []("https://www.youtube.com/watch?v=cwJa24UK-Cw")
+[An Introduction to Headless Shopify -- Subdomains @ shopify?.. store, blog, support]("https://www.youtube.com/watch?v=a8V_vAvTv0o")
+[Understanding the Shopify API -- Shopify Admin API vs Shopify StoreFront API]("https://www.youtube.com/watch?v=U2nIleAHQXE")
+[Shopify cli tool build node nextjs app]("https://www.youtube.com/watch?v=PIXN032XJJ8")
+[Shopify Webhooks]("https://www.youtube.com/watch?v=FO2ch1wxfcQ&list=PLvQF73bM4-5XkNPtyJoyktou_KMQhitph&index=2")
 
 ####
 
