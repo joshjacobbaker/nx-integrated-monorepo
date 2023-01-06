@@ -4,6 +4,7 @@
 
 ### Shopify
 
+[Udemy React + NodeJS Shopify Course]("https://www.udemy.com/course/build-a-custom-shopify-storefront-using-react-headless-cms/learn/lecture/24284350#overview")
 [Next.js + Shopify Storefront API (GraphQL) + Tailwind CSS Headless Store - Course Preview]("https://www.youtube.com/watch?v=RgGItagzlGo")
 [pt.2 Dynamic Data Fetching with Next.js Static Pages (SWR for Shopify Headless)]("https://www.youtube.com/watch?v=sFYEpseLriU")
 [GraphQL]("https://www.youtube.com/watch?v=ARgQ4oK0Mz8")
