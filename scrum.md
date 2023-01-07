@@ -4,6 +4,8 @@
 
 ### Shopify
 
+[SHOPIFY PARTNERS DEVELOPER ACCOUNT URL]("https://partners.shopify.com/2756252/notifications")
+[Shopify API doc]("https://shopify.dev/custom-storefronts/cart/manage")
 [Udemy React + NodeJS Shopify Course]("https://www.udemy.com/course/build-a-custom-shopify-storefront-using-react-headless-cms/learn/lecture/24284350#overview")
 [Next.js + Shopify Storefront API (GraphQL) + Tailwind CSS Headless Store - Course Preview]("https://www.youtube.com/watch?v=RgGItagzlGo")
 [pt.2 Dynamic Data Fetching with Next.js Static Pages (SWR for Shopify Headless)]("https://www.youtube.com/watch?v=sFYEpseLriU")
