@@ -4,6 +4,7 @@
 
 ### Shopify
 
+[shopify-buy npm sdk]("https://www.npmjs.com/package/shopify-buy")
 [SHOPIFY PARTNERS DEVELOPER ACCOUNT URL]("https://partners.shopify.com/2756252/notifications")
 [Shopify API doc]("https://shopify.dev/custom-storefronts/cart/manage")
 [Udemy React + NodeJS Shopify Course]("https://www.udemy.com/course/build-a-custom-shopify-storefront-using-react-headless-cms/learn/lecture/24284350#overview")
