@@ -4,6 +4,7 @@
 
 ### Shopify
 
+[Example Nx project with workspace.json tsconfig.base.json project.json]("https://github.com/nrwl/nx-examples/blob/master/workspace.json")
 [csv shopify product file...]("")
 [Webhook Shopify Nextjs build & Contentful CMS for Shopify App Images]("https://www.udemy.com/course/build-a-custom-shopify-storefront-using-react-headless-cms/learn/lecture/24307120#overview")
 [shopify-buy npm sdk]("https://www.npmjs.com/package/shopify-buy")
