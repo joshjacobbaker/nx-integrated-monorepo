@@ -4,6 +4,7 @@
 
 ### Shopify
 
+[GraphQL in Next13]("https://www.youtube.com/watch?v=yuzvcZ6yTho")
 [do tsconfig.js paths overwrite extended configs?]("")
 [Example Nx project with workspace.json tsconfig.base.json project.json]("https://github.com/nrwl/nx-examples/blob/master/workspace.json")
 [csv shopify product file...]("")
