@@ -1,12 +1,13 @@
 # resource
 
 [tailwindcss library?]("headlessui.dev")
-
-### Shopify
-
+[Extend TailwindCSS]("https://web-crunch.com/posts/how-to-extend-tailwind-css")
 [GraphQL in Next13]("https://www.youtube.com/watch?v=yuzvcZ6yTho")
 [do tsconfig.js paths overwrite extended configs?]("")
 [Example Nx project with workspace.json tsconfig.base.json project.json]("https://github.com/nrwl/nx-examples/blob/master/workspace.json")
+
+### Shopify
+
 [csv shopify product file...]("")
 [Webhook Shopify Nextjs build & Contentful CMS for Shopify App Images]("https://www.udemy.com/course/build-a-custom-shopify-storefront-using-react-headless-cms/learn/lecture/24307120#overview")
 [shopify-buy npm sdk]("https://www.npmjs.com/package/shopify-buy")
