@@ -1,5 +1,6 @@
 # resource
 
+[Extend tailwindCSS screen breakpoints for further precision]("")
 [tailwindcss library?]("headlessui.dev")
 [Extend TailwindCSS]("https://web-crunch.com/posts/how-to-extend-tailwind-css")
 [GraphQL in Next13]("https://www.youtube.com/watch?v=yuzvcZ6yTho")
