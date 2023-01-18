@@ -1,5 +1,6 @@
 # resource
 
+[README.md]("")
 [GraphQL Server]("https://www.udemy.com/course/graphql-for-beginners-with-javascript/learn/lecture/11835974#overview")
 [Figma]("https://www.udemy.com/course/motion-design-with-figma-animations-motion-graphics-uxui/learn/lecture/28249166#overview")
 [Extend tailwindCSS screen breakpoints for further precision]("")
